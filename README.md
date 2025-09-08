@@ -18,7 +18,7 @@
 ### 📬 Let’s Connect  
 - GitHub: [@adel-kd](https://github.com/adel-kd)  
 - LinkedIn: [Your LinkedIn Link]  
-- Email: **your.email@example.com**  
+- Email: **adel@adelkedir.com**  
 
 ---
 
