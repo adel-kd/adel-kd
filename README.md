@@ -2,7 +2,7 @@
 
 🚀 Passionate about **Full-Stack Development** and building real-world projects with **MERN stack, APIs, and cloud deployment**.  
 💡 Always curious about solving problems with **scalable and clean code**.  
-📚 Currently learning **MuleSoft** and improving my **React + Node.js** skills.  
+📚 Currently learning **Machine learning** and improving my **React + Node.js** skills.  
 🤝 Open to collaborate on **web applications, APIs, and open-source projects**.  
 
 ---
@@ -17,7 +17,7 @@
 
 ### 📬 Let’s Connect  
 - GitHub: [@adel-kd](https://github.com/adel-kd)  
-- LinkedIn: [Your LinkedIn Link]  
+- LinkedIn: https://www.linkedin.com/in/adel-kedir971  
 - Email: **adel@adelkedir.com**  
 
 ---
